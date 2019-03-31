@@ -1,6 +1,13 @@
 ---
-theme :
-  name : twitter
 ---
-{% include JB/setup %}
-{% include themes/twitter/default.html %}
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="assets/jkrems.css">
+  </head>
+  <body>
+    {{content}}
+  </body>
+</html>
