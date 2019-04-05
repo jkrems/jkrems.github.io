@@ -1,0 +1,23 @@
+{
+  "name": "jkrems.github.io",
+  "version": "1.0.0",
+  "description": "Personal website of Jan Krems",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkrems/jkrems.github.io.git"
+  },
+  "keywords": [],
+  "author": "Jan Krems <jan.krems@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jkrems/jkrems.github.io/issues"
+  },
+  "homepage": "https://github.com/jkrems/jkrems.github.io#readme",
+  "devDependencies": {
+    "puppeteer-core": "^1.14.0"
+  }
+}

@@ -8,6 +8,10 @@ exclude:
 - 'changelog.md'
 - 'Gemfile'
 - 'Gemfile.lock'
+- 'package.json'
+- 'package-lock.json'
+- 'node_modules'
+- 'scripts'
 
 excerpt_separator: '<!--more-->'
 

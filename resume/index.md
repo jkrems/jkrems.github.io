@@ -3,6 +3,10 @@ layout: page
 title: Jan Krems
 ---
 
+<header markdown="1">
+  You can print this page or [download the PDF](/resume/jan-krems.pdf).
+</header>
+
 <div class="vcard">
   <div>
     <span class="adr"><span class="locality">Redwood City</span>, <span class="region">CA</span></span>
@@ -53,12 +57,12 @@ title: Jan Krems
     by creating a proof of concept
     and quickly iterating based on changing requirements.
   - Streamlined the localization process of ~100 services
-    by designing and leading the implementation of a central localization system
-    and helping resolve scaling issues in both process and systems.
+    by designing and leading the implementation of a central localization system.
+    Helped resolve scaling issues in both process and systems.
   - Enabled debugging across ~300 services in a distributed system
     by establishing common logging practices
-    and working with different teams on implementation across stacks,
-    actively writing low-level instrumentation code for Node.js,
+    and working with different teams on implementation across stacks.
+    Actively wrote low-level instrumentation code for Node.js,
     Java, and Ruby.
 
 <small>
@@ -77,14 +81,35 @@ title: Jan Krems
 
 ## Skills
 
-Passing familiarity with various stacks and technologies,
+Familiar with various stacks and technologies,
 fairly exceptional understanding of **JavaScript** in particular.
-Dusty knowledge of **computer graphics** where I spent most of my early life,
-slightly more recent exposure to **web technologies**.
+Dusty knowledge of **computer graphics** where I spent most of my early life.
+Recently focussed on **web technologies**,
+**system architecture**, and **developer education**.
 
 More importantly a knack for taking in the opinions, experiences, and motivations
 from various people and distilling them down to something everyone can agree on.
 And then explaining the result to others in a way that they can relate to.
+
+### Technical Skills
+
+* **Got paid for:**
+  JavaScript (node.js, express), C++, Java (JNI, Dropwizard, Spring, Android), Erlang,
+  Objective-C (iOS), Groovy, Scala, Go, Ruby, PHP (Wordpress, yii, Symfony), CoffeeScript, HTML, CSS,
+  Kafka, Storm, RabbitMQ, OpenGL,
+  Jenkins, Kubernetes, Docker, Varnish, Nginx, MongoDB, Postgres, MySQL, CouchDB,
+  Couchbase, Memcached, Redis, Elasticsearch, Jekyll, Git, SVN,
+  Webpack, Gulp, Grunt, TypeScript,
+  React, Preact, Angular, Backbone,
+  REST and RESTful APIs, GraphQL,
+  Compilers and Runtimes (babel/babylon, V8),
+  Webdriver / Selenium,
+  COM services,
+  and Visual Basic for Applications (VBA).
+
+* **Side projects:**
+  DirectX, Haskell, OCaml, Clojure, Reason, C#, C++.NET, Lua, Swift, Object Pascal,
+  Heroku (buildpacks), Vue, Ember.
 
 ## Education
 
