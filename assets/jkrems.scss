@@ -5,7 +5,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 11pt;
+  font-size: 12pt;
 }
 
 a {
@@ -29,31 +29,37 @@ h3 > small {
   line-height: 1.5em;
 }
 
-.top-level-list > ul {
-  border-left: 1px dashed #ccc;
-  margin-left: 0.5em;
-  padding-left: 1em;
+.top-level-list {
+  & > ul {
+    border-left: 1px dashed #ccc;
+    margin-left: 0.5em;
+    padding-left: 1em;
+
+    & > li {
+      line-height: 1.5em;
+      list-style: none;
+
+      & > ul {
+        margin-left: 0.5em;
+        padding-left: 1em;
+      }
+    }
+
+    & > li::before {
+      content: '◯'; // '⬤';
+      position: absolute;
+      font-weight: bold;
+      margin-left: -28px;
+      margin-top: -4px;
+      color: #999;
+      border: 4px solid white;
+      background-color: #fff;
+    }
+  }
 }
 
-.top-level-list > ul > li {
-  line-height: 1.5em;
-  list-style: none;
-}
-
-.top-level-list > ul > li::before {
-  content: '◯'; // '⬤';
-  position: absolute;
-  font-weight: bold;
-  margin-left: -28px;
-  margin-top: -4px;
-  color: #999;
-  border: 4px solid white;
-  background-color: #fff;
-}
-
-.top-level-list > ul > li > ul {
-  margin-left: 0.5em;
-  padding-left: 1em;
+p {
+  line-height: 1.5;
 }
 
 @media print {

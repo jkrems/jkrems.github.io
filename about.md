@@ -31,7 +31,7 @@ title: Jan Krems
   <small style="float: right">Jan 2012 - Current</small>
 </h3>
 
-<div class="top-level-list" markdown="1">
+<div class="top-level-list"  markdown="1">
 
 * **Architect of web tier consisting of ~80 individual services**
   - Helped teams quickly ship products
@@ -42,24 +42,21 @@ title: Jan Krems
     by monitoring industry trends,
     taking part in web standards discussions,
     and leading a team of three core platform developers.
-* **Owner of distributed tracing**
+* **Owner of application logging**
   - Reduced debugging times in a distributed system of hundreds of services
-    by establishing application event schemas and best practices.
-  - Ensured widespread adoption through documentation, training,
-    and by working with multiple service- and platform teams,
+    by establishing common logging practices
+    and working with different teams on implementation across stacks,
     actively writing low-level instrumentation code for Node.js,
     Java, and Ruby.
 * **Maintainer of open source process**
-  - Encouraged the participation of engineers in the open source community
-    by owning Groupon's internal open source documentation and processes
-    as well as its public Github organization.
-  - Reviewed projects and code before public release,
-    guided engineers through safe and efficient use of open source technologies,
-    and helped integrate open source practices into everyday work.
+  - Encouraged participation in the open source community
+    by reviewing projects and code before public release,
+    guiding engineers through safe and efficient use of OSS,
+    and integrating open source practices into everyday work.
 * **Lead Developer**
-  - Supported the evaluation of a new business line
-    by closely working with a small team to create a proof of concept
-    and quickly adjusting it based on product iterations and customer feedback.
+  - Supported the evaluation of a new business opportunity
+    by creating a proof of concept
+    and quickly iterating based on changing requirements.
   - Streamlined the localization process of ~100 services
     by designing and leading the implementation of a central localization system
     and helping resolve scaling issues in both process and systems.
@@ -82,6 +79,15 @@ title: Jan Krems
 
 ## Skills
 
+Passing familiarity with various stacks and technologies,
+fairly exceptional understanding of **JavaScript** in particular.
+Dusty knowledge of **computer graphics** where I spent most of my early life,
+slightly more recent exposure to **web technologies**.
+
+More importantly a knack for taking in the opinions, experiences, and motivations
+from various people and distilling them down to something everyone can agree on.
+And then explaining the result to others in a way that they can relate to.
+
 ## Education
 
 <h3>
@@ -90,6 +96,6 @@ title: Jan Krems
 </h3>
 
 <h3>
-  Computational visualistics, Otto-von-Guericke-Universität Magdeburg
+  Computational visualistics, Universität Magdeburg
   <small style="float: right">2007 - 2008</small>
 </h3>
