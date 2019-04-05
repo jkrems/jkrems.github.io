@@ -99,14 +99,15 @@ And then explaining the result to others in a way that they can relate to.
   Kafka, Storm, RabbitMQ, OpenGL,
   Jenkins, Kubernetes, Docker, Varnish, Nginx, MongoDB, Postgres, MySQL, CouchDB,
   Couchbase, Memcached, Redis, Elasticsearch, Jekyll, Git, SVN,
+  Puppet, Vagrant, Helm, Envoy, mdns,
   Webpack, Gulp, Grunt, TypeScript,
   React, Preact, Angular, Backbone,
-  REST and RESTful APIs, GraphQL,
+  REST and RESTful APIs, Swagger / OpenAPI, GraphQL, Distributed Tracing (Zipkin),
+  Chrome Extensions,
   Compilers and Runtimes (babel/babylon, V8),
   Webdriver / Selenium,
   COM services,
   and Visual Basic for Applications (VBA).
-
 * **Side projects:**
   DirectX, Haskell, OCaml, Clojure, Reason, C#, C++.NET, Lua, Swift, Object Pascal,
   Heroku (buildpacks), Vue, Ember.
