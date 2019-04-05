@@ -4,7 +4,7 @@ title: Jan Krems
 ---
 
 <header markdown="1">
-  You can print this page or [download the PDF](/resume/jan-krems.pdf).
+  Print this page or [download the PDF](/resume/jan-krems.pdf).
 </header>
 
 <div class="vcard">
