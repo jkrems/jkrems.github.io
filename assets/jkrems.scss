@@ -6,6 +6,7 @@ html, body {
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 12pt;
+  line-height: 1.2;
 }
 
 a {
@@ -17,6 +18,10 @@ section {
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 1.7em;
+}
+
 h1, h2, h3, h4 {
   font-weight: 400;
 }
@@ -25,41 +30,19 @@ h3 > small {
   color: #666;
 }
 
-.vcard div {
-  line-height: 1.5em;
+.vcard > div {
+  float: right;
+  text-align: right;
 }
 
-.top-level-list {
-  & > ul {
-    border-left: 1px dashed #ccc;
-    margin-left: 0.5em;
-    padding-left: 1em;
-
-    & > li {
-      line-height: 1.5em;
-      list-style: none;
-
-      & > ul {
-        margin-left: 0.5em;
-        padding-left: 1em;
-      }
-    }
-
-    & > li::before {
-      content: '◯'; // '⬤';
-      position: absolute;
-      font-weight: bold;
-      margin-left: -28px;
-      margin-top: -4px;
-      color: #999;
-      border: 4px solid white;
-      background-color: #fff;
-    }
-  }
+.url > img {
+  vertical-align: middle;
+  margin-right: 5px;
 }
 
-p {
-  line-height: 1.5;
+ul {
+  margin-left: 0.5em;
+  padding-left: 1em;
 }
 
 @media print {
@@ -67,5 +50,9 @@ p {
     size: auto;
     margin: 16.8mm 25.4mm 19mm 25.4mm;
     padding: 0;
+  }
+
+  html, body {
+    font-size: 11pt;
   }
 }

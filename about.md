@@ -4,24 +4,23 @@ title: Jan Krems
 ---
 
 <div class="vcard">
-  <h1 class="fn">Jan Krems</h1>
   <div>
     <span class="adr"><span class="locality">Redwood City</span>, <span class="region">CA</span></span>
     &middot;
     <a href="mailto:jan.krems@gmail.com" class="email">jan.krems@gmail.com</a>
     &middot;
     <a href="tel:+1-650-442-8673" class="tel">(650) 422-8673</a>
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/jkrems" class="url"
-      target="_blank" rel="noopener noreferrer">linkedin.com/in/jkrems</a>
+    <br/>
+    <a href="https://www.linkedin.com/in/jkrems" class="url" title="LinkedIn"
+      target="_blank" rel="noopener noreferrer"><img src="/images/in-14px.png" width="14" height="14" alt="linkedin.com/in/" />jkrems</a>
     &middot;
-    <a href="https://github.com/jkrems/" class="url"
-      target="_blank" rel="noopener noreferrer">github.com/jkrems</a>
+    <a href="https://github.com/jkrems/" class="url" title="Github"
+      target="_blank" rel="noopener noreferrer"><img src="/images/github-32px.png" width="14" height="14" alt="github.com/" />jkrems</a>
     &middot;
-    <a href="https://twitter.com/jankrems/" class="url"
-      target="_blank" rel="noopener noreferrer">twitter.com/jankrems</a>
+    <a href="https://twitter.com/jankrems/" class="url" title="Twitter"
+      target="_blank" rel="noopener noreferrer"><img src="/images/twitter-32px.png" width="14" height="14" alt="twitter.com/" />jankrems</a>
   </div>
+  <h1 class="fn">Jan Krems</h1>
 </div>
 
 ## Experience
@@ -31,23 +30,19 @@ title: Jan Krems
   <small style="float: right">Jan 2012 - Current</small>
 </h3>
 
-<div class="top-level-list"  markdown="1">
-
 * **Architect of web tier consisting of ~80 individual services**
   - Helped teams quickly ship products
-    by providing a great developer experience, helpful automation,
-    and a well-documented platform
+    by streamlining common development tasks, creating helpful automation,
+    and providing a well-documented platform
     handling core businees needs and operational concerns.
-  - Kept the company's web stack up-to-date and competitive
+  - Kept web stack up-to-date and competitive
     by monitoring industry trends,
     taking part in web standards discussions,
     and leading a team of three core platform developers.
-* **Owner of application logging**
-  - Reduced debugging times in a distributed system of hundreds of services
-    by establishing common logging practices
-    and working with different teams on implementation across stacks,
-    actively writing low-level instrumentation code for Node.js,
-    Java, and Ruby.
+* **Coordinator of Platform Development**
+  - Ensured consistent practices and developer experience across stacks
+    by facilitating a regular "framework roundtable"
+    and acting as the editor for docs on using cloud-native technologies.
 * **Maintainer of open source process**
   - Encouraged participation in the open source community
     by reviewing projects and code before public release,
@@ -60,6 +55,11 @@ title: Jan Krems
   - Streamlined the localization process of ~100 services
     by designing and leading the implementation of a central localization system
     and helping resolve scaling issues in both process and systems.
+  - Enabled debugging across ~300 services in a distributed system
+    by establishing common logging practices
+    and working with different teams on implementation across stacks,
+    actively writing low-level instrumentation code for Node.js,
+    Java, and Ruby.
 
 <small>
   <em><sup>[1]</sup> As "Principal Engineer" since Jun 2016. Previously everchanging titles on the way there.</em>
@@ -74,8 +74,6 @@ title: Jan Krems
   and working with other node core collaborators to bundle it with the main node binary.
 * Supported the effort to make universal JavaScript modules a reality
   by implementing `import.meta` in V8 and participating in the modules working group.
-
-</div>
 
 ## Skills
 
@@ -99,3 +97,7 @@ And then explaining the result to others in a way that they can relate to.
   Computational visualistics, Universität Magdeburg
   <small style="float: right">2007 - 2008</small>
 </h3>
+
+## Patents
+
+* Michael Burton, Shaheen Ghiassy, Andrei Pitea, Adam Geitgey, **Jan Krems**, Daniel Beard, Matthijs Mullender, Luis Felipe Brahm-Smart (2017): Mobile service applications. Application is pending
