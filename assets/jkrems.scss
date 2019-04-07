@@ -41,13 +41,22 @@ h1, h2, h3, h4 {
   font-weight: 400;
 }
 
-h3 > small {
-  color: #666;
+h3 {
+  position: relative;
+
+  & > small {
+    color: #666;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    line-height: 1.3;
+  }
 }
 
 .vcard > div {
   float: right;
   text-align: right;
+  margin-top: 11px;
 }
 
 .url > img {
@@ -73,5 +82,9 @@ ul {
 
   header {
     display: none;
+  }
+
+  .vcard > div {
+    margin-top: 9px;
   }
 }

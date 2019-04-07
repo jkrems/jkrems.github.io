@@ -31,7 +31,7 @@ title: Jan Krems
 
 <h3>
   Principal Engineer<sup>[1]</sup>, Groupon
-  <small style="float: right">Jan 2012 - Current</small>
+  <small>Jan 2012 - Current</small>
 </h3>
 
 * **Architect of web tier consisting of ~80 individual services**
@@ -55,7 +55,7 @@ title: Jan Krems
 * **Lead Developer**
   - Supported the evaluation of a new business opportunity
     by creating a proof of concept
-    and quickly iterating based on changing requirements.
+    and rapidly iterating based on changing requirements.
   - Streamlined the localization process of ~100 services
     by designing and leading the implementation of a central localization system.
     Helped resolve scaling issues in both process and systems.
@@ -71,7 +71,7 @@ title: Jan Krems
 
 <h3>
   Core Collaborator, Node.js
-  <small style="float: right">Apr 2017 - Current</small>
+  <small>Apr 2017 - Current</small>
 </h3>
 
 * Unblocked a key V8 upgrade by implementing a new command line debugger (`node-inspect`)
@@ -88,7 +88,7 @@ Recently focussed on **web technologies**,
 **system architecture**, and **developer education**.
 
 More importantly a knack for taking in the opinions, experiences, and motivations
-from various people and distilling them down to something everyone can agree on.
+of various people and distilling them down to something everyone can agree on.
 And then explaining the result to others in a way that they can relate to.
 
 ### Technical Skills
@@ -96,7 +96,7 @@ And then explaining the result to others in a way that they can relate to.
 * **Got paid for:**
   JavaScript (node.js, express), C++, Java (JNI, Dropwizard, Spring, Android), Erlang,
   Objective-C (iOS), Groovy, Scala, Go, Ruby, PHP (Wordpress, yii, Symfony), CoffeeScript, HTML, CSS,
-  Kafka, Storm, RabbitMQ, OpenGL,
+  Kafka, Storm, RabbitMQ, OpenGL, Responsive Design, Web Performance,
   Jenkins, Kubernetes, Docker, Varnish, Nginx, MongoDB, Postgres, MySQL, CouchDB,
   Couchbase, Memcached, Redis, Elasticsearch, Jekyll, Git, SVN,
   Puppet, Vagrant, Helm, Envoy, mdns,
@@ -110,18 +110,19 @@ And then explaining the result to others in a way that they can relate to.
   and Visual Basic for Applications (VBA).
 * **Side projects:**
   DirectX, Haskell, OCaml, Clojure, Reason, C#, C++.NET, Lua, Swift, Object Pascal,
+  Flash / ActionScript,
   Heroku (buildpacks), Vue, Ember.
 
 ## Education
 
 <h3>
   Computer Science and Philosophy, Universität Paderborn
-  <small style="float: right">2009 - 2012</small>
+  <small>2009 - 2012</small>
 </h3>
 
 <h3>
   Computational visualistics, Universität Magdeburg
-  <small style="float: right">2007 - 2008</small>
+  <small>2007 - 2008</small>
 </h3>
 
 ## Patents
