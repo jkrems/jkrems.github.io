@@ -32,7 +32,7 @@ for lunches at the pub and teaching me what working in a product team means<br/>
 **Tobias Janiesch and Stephan Betz** for sending me across the globe to learn about the US platform<br/>
 **Bojan Babic** for always ending up where I am for some reason..?<br/>
 **Greg Conklin** for making me excited about Groupon's new front-end architecture<br/>
-**Daniel Schröder and Andreas Richter** for explaining front-end development to me
+**Daniel Wolff and Andreas Richter** for explaining front-end development to me
 and having patience when I wanted to sneak things into a release yet again<br/>
 **Richie Voss and Kyle Oppenheim** for making me appreciate how difficult it is to merge two e-commerce systems<br/>
 **The I-Tier team** (Sean McCullough, Sean Massa, Todd Larsen, Kyle Blomquist)
