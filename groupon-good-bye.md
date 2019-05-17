@@ -49,9 +49,13 @@ when working with somebody who has no patience for bad tools<br/>
 **Every other member of the core I-Tier team and on the various front-end product teams at Groupon**
 for having patience whenever I broke everything
 and for allowing me to gain your trust over the years<br/>
+**David Stazer and the GAPI team** for giving Groupon's front-end platform a stable foundation
+and making sure it stays stable, no matter what<br/>
 **Varun Sood and Eric Farraro** for always striving the strike the perfect balance
 between shipping features quickly and great craft.<br/>
 **AJ** for standing tall as example of self-reflection and humility<br/>
+**Shane McHugh, Maciej Makowski, Gaurav Garg, Michael Carreno, and all the others cloud people**
+for taking a potentially painful migration and helping to turn it into something otheres can be excited about<br/>
 **The principals group**
 for countless insights, advice, and opportunities to sharpen my judgement<br/>
 **Groupon engineers**
@@ -68,6 +72,9 @@ Jan
 P.S.: My idea for a [Groupon musical ad][musical-ad] is still up for grabs.
 
 P.P.S.: Grouponeers? Grouponites? Groupanions? Did we ever settle on a term?
+
+P.P.P.S.: I'm sure I have forgotten way too many people above.
+Please don't hold it against me, it just took super long to select these fonts...
 
 <sup>1</sup> No, this is not a typo. Hollow(ed). Mines. I'm terrible at puns. I'll stop now.
 
