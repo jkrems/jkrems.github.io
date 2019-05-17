@@ -15,12 +15,12 @@ I am reminded of an old folk song my parents used to sing to me:
 >
 > — [Definitely Real Traditional Folk Song][folk-song]
 
-When I first set foot in these hollowed walls<sup>1</sup>
+When I first set foot in these hollowed walls<sup>1</sup>,
 the year was 2011, the contract work temporary,
 and the Club Mate plentiful.
-Looking back at those eight years,
-I want to extend some words of appreciation to Grouponites past and present,
-in mostly chronological order:
+Looking back at those past eight years,
+I want to extend some words of appreciation to Grouponites past and present.
+In mostly chronological order:
 
 **Leo Wehmeier** for telling me about that freelance gig at Groupon<br/>
 **Marcus Pappert** for giving said gig to me<br/>
@@ -49,6 +49,7 @@ when working with somebody who has no patience for bad tools<br/>
 **Every other member of the core I-Tier team and on the various front-end product teams at Groupon**
 for having patience whenever I broke everything
 and for allowing me to gain your trust over the years<br/>
+**AJ** for
 **The principals group**
 for countless insights, advise, and opportunities to sharpen my judgement<br/>
 **Groupon engineers**
