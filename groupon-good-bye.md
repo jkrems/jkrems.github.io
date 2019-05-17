@@ -5,7 +5,7 @@ title: Good Bye, Groupon
 salutation: My fellow Grouponeers, dearest I-Tiers,
 ---
 
-As I descent one last time into these our coupon mines,
+As I descend one last time into these our coupon mines,
 I am reminded of an old folk song my parents used to sing to me:
 
 > Good bye, old coupon mine<br/>
@@ -15,7 +15,7 @@ I am reminded of an old folk song my parents used to sing to me:
 >
 > — [Definitely Real Traditional Folk Song][folk-song]
 
-When I first set foot in these hollowed walls<sup>1</sup>,
+When I first set foot in these hollowed halls<sup>1</sup>,
 the year was 2011, the contract work temporary,
 and the Club Mate plentiful.
 Looking back at those past eight years,
@@ -49,11 +49,13 @@ when working with somebody who has no patience for bad tools<br/>
 **Every other member of the core I-Tier team and on the various front-end product teams at Groupon**
 for having patience whenever I broke everything
 and for allowing me to gain your trust over the years<br/>
-**AJ** for
+**Varun Sood and Eric Farraro** for always striving the strike the perfect balance
+between shipping features quickly and great craft.<br/>
+**AJ** for standing tall as example of self-reflection and humility<br/>
 **The principals group**
-for countless insights, advise, and opportunities to sharpen my judgement<br/>
+for countless insights, advice, and opportunities to sharpen my judgement<br/>
 **Groupon engineers**
-for being kind, genuine, fun-loving, and invested in each others success<br/>
+for being kind, genuine, fun-loving, and invested in each other's success<br/>
 
 I'm excited to see what y'all do next
 so let's not dwell on the past.
