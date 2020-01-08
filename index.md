@@ -4,7 +4,15 @@ title: 'Jan Krems'
 ---
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;height:100%;">
-  <img src="/images/flute.jpg" alt="Jan Krems, a long time ago" />
+  <div style="
+    border-radius: 50%;
+    overflow: hidden;
+    width: 280px;
+    height: 280px;
+    border: 10px solid #eee;
+    ">
+    <img src="/images/flute.jpg" alt="Jan Krems, a long time ago">
+  </div>
   <p style="font-size:2em">
     Maybe have a look at
     <a href="https://github.com/jkrems">Github</a>
